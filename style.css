@@ -1,0 +1,162 @@
+html{
+    background-color: #FAFAFA;
+    font-family: 'IBM Plex Sans', sans-serif;
+    padding: 40px;
+}
+
+.top{
+    height: 250px;
+    display: flex;
+    padding: 30px;
+}
+
+.top-left{
+    height: 200px;
+    width: 200px;
+    display: flex;
+}
+
+.top-left img{
+    width: 85%;
+    padding: 15px;
+    align-self: center;
+}
+
+.top-right{
+    height: 100%;
+    width: 60%;
+    margin-left: 80px;
+}
+
+.one{
+    height: 25%;
+    display: flex;
+}
+
+.insta{
+    width: 27%;
+    display: flex;
+}
+
+h2{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.insta img{
+    height: 40%;
+    margin-top: 10%;
+}
+
+.follow-button{
+    width: 15%;
+}
+
+.follow-button p{
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 80px;
+    text-align: center;
+    font-size: 18px;
+    padding: 2px;
+}
+
+.more{
+    width: 5%;
+}
+
+.more p{
+    font-size: 25px;
+    margin-top: 20%;
+}
+
+.two{
+    height: 20%;
+    display: flex;
+}
+
+.posts{
+    width: 23%;
+}
+
+.followers{
+    width: 23%;
+}
+
+.following{
+    width: 30%;
+}
+
+
+.three{
+    height: 35%;
+    padding-top: 20px;
+}
+
+.three p{
+    margin-bottom: 4px;
+    margin-top: 0px;
+}
+
+.bio{
+    display: flex;
+}
+
+.bio img{
+    height: 20px;
+}
+
+a{
+    color: #073A6C;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.four{
+    height: 10%;
+}
+
+.four p{
+    margin-top: 0px;
+    color: gray;
+    font-size: 12px;
+}
+
+.four b{
+    color: black;
+}
+
+.bottom{
+    margin-top: 5px;
+    height: 110px;
+    
+}
+
+.story{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 40%;
+}
+
+.card{
+    text-align: center;
+}
+
+.card p{
+    margin-top: 0;
+    font-weight: bold;
+}
+
+.caption{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2%;
+    padding-right: 37%;
+    font-weight: bold;
+}
+
+.bottom img{
+    height: 90px;
+
+}
